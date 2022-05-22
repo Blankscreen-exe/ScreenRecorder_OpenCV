@@ -2,6 +2,7 @@
 
 ### Dependecies
 run the following on your terminal
+
 *Note: for Windows*
 ```
 pip install numpy
