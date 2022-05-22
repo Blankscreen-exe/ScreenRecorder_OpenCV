@@ -17,5 +17,7 @@ python main.py
 ```
 Note: I'll add a better GUI in the near future
 
+To QUIT the app just press `Q` on your keyboard while the recording window is active.
+
 ### Reference
 [SweetCode Blog by Hillary Nyakundi](https://sweetcode.io/how-to-create-a-screen-recorder-using-python/)
