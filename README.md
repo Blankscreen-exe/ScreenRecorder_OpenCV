@@ -1,2 +1,21 @@
-# ScreenRecorder_OpenCV
-Screen Recorder from Scratch aimed at serving the basic functionalities
+# ScreenRecorder using OpenCV
+
+### Dependecies
+run the following on your terminal
+*Note: for Windows*
+```
+pip install numpy
+pip install opencv-python
+pip install pyautogui
+pip install pillow
+```
+
+### Usage
+run the script from terminal
+```
+python main.py
+```
+Note: I'll add a better GUI in the near future
+
+### Reference
+[SweetCode Blog by Hillary Nyakundi](https://sweetcode.io/how-to-create-a-screen-recorder-using-python/)
